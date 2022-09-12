@@ -1,0 +1,1 @@
+{"name":"Local: check_permutation","url":"d:\\Learning related\\Coding NInjas\\Array\\2dArray\\check_permutation.cpp","tests":[{"id":1656689427175,"input":"abac\nacba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Learning related\\Coding NInjas\\Array\\2dArray\\check_permutation.cpp","group":"local","local":true}
